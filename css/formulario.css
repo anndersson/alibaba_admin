@@ -1,0 +1,96 @@
+body{
+    background-color:#5C5F5D;
+}
+
+.formulario{
+    background-color: #634934;
+    width: 40rem;
+    height: 30rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.caja{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja2{
+width: 100rem;
+height: 50rem;
+background-color: #FEFEFE;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+}
+
+.imagen{
+    width: 40rem;
+    height: 30rem;
+}
+
+.formulario input{
+    background-color: rgb(231, 194, 145);
+}
+
+.user{
+font-size: 1.5rem;
+color: #FEFEFE;
+margin: 2rem 0rem 2rem 0rem;
+}
+
+.contra{
+    font-size: 1.5rem;
+    color: #FEFEFE;
+    margin: 2rem 0rem 2rem 0rem;
+}
+
+.sesion{
+font-size: 2.5rem;
+color: #FEFEFE;
+margin: 2rem 0rem 2rem 0rem;
+}
+
+.boton{
+    margin: 2rem 0rem 2rem 0rem;
+    
+}
+
+.block{
+    display: none !important;
+}
+
+.activar-flex{
+    display: flex !important;
+}
+
+.desactivar{
+    display: none;
+}
+
+.section-login{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.section-administrador{
+    width: 100%;
+    height: 6rem;
+    display: block;
+}
+
+nav{
+    width: 100%;
+    height: 6rem;
+    background-color: orange;
+}
